@@ -1,2 +1,1 @@
-# https://mishajib.github.io/tracer/
-# tracer
+# [Tracer](https://mishajib.github.io/tracer/)
